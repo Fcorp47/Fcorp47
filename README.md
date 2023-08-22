@@ -1,5 +1,8 @@
-# Hey, I'm Arjun 👋
-welcome, I'm interested in programming and web development!
+<h1 align="center">Arjun Poduval</h1>
+
+<p align="center">
+Interested in programming and web development!
+</p>
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-poduval/)
